@@ -17,6 +17,13 @@ Um projeto onde o conceito é aplicar o consumo de API do OpenWeather
 
 🌎 Deploy do projeto: [https://weather-api-puce-six.vercel.app/](https://weather-api-puce-six.vercel.app//)
 
+## Importante
+
+O projeto foi feito com consumo de API Em React para estudo e demonstração
+Recomendado fazer um projeto a parte back-end para o consumo de api
+
+API: [https://openweathermap.org/](https://openweathermap.org//)
+
 ---
 
 ## Layout
@@ -43,6 +50,6 @@ As seguintes ferramentas foram usadas para desenvolver o projeto:
 
 ## Desenvolvedor
 
-<a href="https://www.linkedin.com/in/matheus-miguel-8581b8265/">Matheus miguel silva dos santos</a>
+<a href="https://www.linkedin.com/in/matheus-miguel-8581b8265/">Matheus miguel</a>
 
 ---
