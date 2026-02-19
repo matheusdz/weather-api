@@ -20,6 +20,7 @@ Um projeto onde o conceito é aplicar o consumo de API do OpenWeather
 ## Importante
 
 O projeto foi feito com consumo de API Em React para estudo e demonstração
+
 Recomendado fazer um projeto a parte back-end para o consumo de api
 
 API: [https://openweathermap.org/](https://openweathermap.org//)
